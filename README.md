@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://www.zhihu.com/people/apachetj">Tang Jian</a> <img src="http://identitystandards.acm.org/sigs/acm-sigai-logo-dark.png" width="333"> </h1>
+   <h1>Hi there, I'm <a href="https://www.zhihu.com/people/apachetj">Tang Jian</a> <img src="http://identitystandards.acm.org/sigs/acm-sigai-logo-dark.png" width="233"> </h1>
    
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
