@@ -2,7 +2,7 @@
    <h1>Hi there, I'm <a href="https://www.zhihu.com/people/apachetj">Tang Jian</a> <img src="http://identitystandards.acm.org/sigs/acm-sigai-logo-dark.png" width="133"> </h1>
    
    
-   <img src="http://identitystandards.acm.org/sigs/sigcomm-cmyk-logo.jpg" width="133">
+   <img src="http://identitystandards.acm.org/sigs/sigcomm-cmyk-logo.jpg" width="233">
 </div>
 
 <p align='center'>
