@@ -5,14 +5,6 @@
    <img src="http://identitystandards.acm.org/sigs/sigcomm-cmyk-logo.jpg" width="233">
 </div>
 
-<p align='center'>
-<a href="https://www.zhihu.com/people/apachetj"><img height="30" src="https://github.com/CGITJ/CGITJ/blob/master/zhihu_64.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
- </p>
-
 
 
 <div align="center">
