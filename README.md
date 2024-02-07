@@ -8,10 +8,6 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Backend Developer | 🛸 China <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
  
- <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
-  </h5>
- 
  
 <br />
 <p align="center">
@@ -29,9 +25,8 @@
     <img  src="https://github-readme-stats.vercel.app/api?username=CGITJ&&show_icons=true&count_private=true&theme=radical"/>
 </a>
 
+<a href="https://github.com/CGITJ">
+<img align="right" src="https://count.getloli.com/get/@CGITJ?theme=rule34" alt="汤键" />
+</a>
+
 </p>
-
-<br />
-[//]: # (<img src="https://github-readme-stats-zzy-eight.vercel.app/api/top-langs/?username=CGITJ&layout=compact"/>)
-
-[//]: # (![]&#40;https://github-readme-activity-graph.cyclic.app/graph?username=CGITJ&theme=github&#41;)
