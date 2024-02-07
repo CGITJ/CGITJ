@@ -11,7 +11,7 @@
  
 <br />
 <p align="center">
-  <h3> I'm 20 years old Backend developer from China.</h3>
+  <h3> blog and work </h3>
 </p>
 
  - [知乎](https://www.zhihu.com/people/apachetj)⚡️[掘金](https://juejin.cn/user/2131289595721031)⚡️[CSDN](https://juejin.cn/user/2131289595721031)
