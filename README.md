@@ -21,55 +21,21 @@
   <h3> I'm 20 years old Backend developer from China.</h3>
 </p>
 
- - 
+ - [知乎](https://www.zhihu.com/people/apachetj)
  
- - <i></i>
+ - [掘金](https://juejin.cn/user/2131289595721031)
    
- - 
+ - [掘金](https://juejin.cn/user/2131289595721031)
 
- - 
- 
- - 
- 
- - All About living life at its best.
- 
- <p align="center">
-  <h4> Backend | ICPC </h4>
-   </p>
+ - [CSDN](https://juejin.cn/user/2131289595721031)
 
 <!--  -->
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=CGITJ&&show_icons=true&count_private=true&theme=radical"/>
-  </a>
+</a>
 
 </p>
 
 <br />
-
-<!--
-### - Blogs 🌱
--->
-<!--
-<p align="center">
-  <a href="https://dev.to/hemant">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-  </a>
-</p>
--->
-
-<h2 align="center">🤝 Support</h2>
-
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<p align="center">Made with ❤️ in China</p>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-
