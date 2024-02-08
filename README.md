@@ -1,12 +1,6 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://www.zhihu.com/people/apachetj">Tang Jian</a> <img src="http://identitystandards.acm.org/sigs/acm-sigai-logo-dark.png" width="133"> </h1>
 </div>
-
-
-
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Backend Developer | 🛸 China <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
- 
  
 <br />
 <p align="center">
