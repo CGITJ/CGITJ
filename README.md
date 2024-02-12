@@ -11,9 +11,9 @@
 <p align="center" >
 
 <a href="https://github.com/CGITJ">
-    <img  src="https://stats.justsong.cn/api/leetcode/?username=icpctj&theme=dark"/>
+    <img  src="https://stats.justsong.cn/api/leetcode/?username=兔子队列.汤&theme=dark"&lang=zh-CN/>
 </a>
-
+<br>
 <a href="https://github.com/CGITJ">
     <img  src="https://github-readme-stats.vercel.app/api?username=CGITJ&&show_icons=true&count_private=true&theme=radical"/>
 </a>
