@@ -10,8 +10,8 @@
 
 <p align="center" >
 
-<a href="https://leetcode.cn/u/icpctj/">
-    <img  src="https://stats.justsong.cn/api/leetcode?username=icpctj&cn=true&theme=dark"/>
+<a href="https://juejin.cn/user/2131289595721031">
+    <img  src="https://stats.justsong.cn/api/juejin?id=2131289595721031&theme=dark"/>
 </a>
 <a href="https://blog.csdn.net/weixin_59624686?type=blog">
     <img  src="https://stats.justsong.cn/api/csdn?id=weixin_59624686&theme=dark"/>
