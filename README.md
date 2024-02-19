@@ -2,7 +2,7 @@
   <h3> blog and work </h3>
 </p>
 
- - [知乎](https://www.zhihu.com/people/apachetj)⚡️[掘金](https://juejin.cn/user/2131289595721031)⚡️[CSDN](https://blog.csdn.net/weixin_59624686?type=blog)
+ - [知乎](https://www.zhihu.com/people/apachetj)⚡️[掘金](https://juejin.cn/user/2131289595721031)⚡️[CSDN](https://blog.csdn.net/weixin_59624686?type=blog)⚡️[个人博客](https://icpc.cloud/)
  
  - 医通宝数据科技（天津）有限公司 Java后端开发 2023年09月 - 2023年12月
 
