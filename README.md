@@ -21,7 +21,4 @@
     <img  src="https://github-readme-stats.vercel.app/api?username=CGITJ&&show_icons=true&count_private=true&theme=radical"/>
 </a>
 
-<a href="https://github.com/CGITJ">
-<img align="right" src="https://count.getloli.com/get/@CGITJ?theme=rule34" alt="汤键" />
-</a>
 </p>
